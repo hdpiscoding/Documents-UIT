@@ -1,0 +1,11 @@
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\bin\Debug\GDI_BT1.exe.config
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\bin\Debug\GDI_BT1.exe
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\bin\Debug\GDI_BT1.pdb
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\obj\Debug\GDI_BT1.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\obj\Debug\GDI_BT1.csproj.SuggestedBindingRedirects.cache
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\obj\Debug\GDI_BT1.Form1.resources
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\obj\Debug\GDI_BT1.Properties.Resources.resources
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\obj\Debug\GDI_BT1.csproj.GenerateResource.cache
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\obj\Debug\GDI_BT1.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\obj\Debug\GDI_BT1.exe
+D:\UIT\Visual Programming\WinForm C#\GDI_BT1\GDI_BT1\obj\Debug\GDI_BT1.pdb

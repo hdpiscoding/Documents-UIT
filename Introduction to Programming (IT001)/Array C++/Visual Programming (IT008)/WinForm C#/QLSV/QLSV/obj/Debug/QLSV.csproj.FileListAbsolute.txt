@@ -1,0 +1,15 @@
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.csproj.SuggestedBindingRedirects.cache
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.DanhMucTN.resources
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.NhapSV.resources
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.TimKiemSV.resources
+D:\UIT\Visual Programming\WinForm C#\QLSV\QLSV\obj\Debug\QLSV.CreateAccount.resources

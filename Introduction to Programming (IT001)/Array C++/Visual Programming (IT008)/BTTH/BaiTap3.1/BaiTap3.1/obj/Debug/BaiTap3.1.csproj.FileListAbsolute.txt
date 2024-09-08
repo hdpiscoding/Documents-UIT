@@ -1,0 +1,11 @@
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\bin\Debug\BaiTap3.1.exe.config
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\bin\Debug\BaiTap3.1.exe
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\bin\Debug\BaiTap3.1.pdb
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\obj\Debug\BaiTap3.1.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\obj\Debug\BaiTap3.1.csproj.SuggestedBindingRedirects.cache
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\obj\Debug\BaiTap3._1.Form1.resources
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\obj\Debug\BaiTap3._1.Properties.Resources.resources
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\obj\Debug\BaiTap3.1.csproj.GenerateResource.cache
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\obj\Debug\BaiTap3.1.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\obj\Debug\BaiTap3.1.exe
+D:\UIT\Visual Programming\BTTH\BaiTap3.1\BaiTap3.1\obj\Debug\BaiTap3.1.pdb

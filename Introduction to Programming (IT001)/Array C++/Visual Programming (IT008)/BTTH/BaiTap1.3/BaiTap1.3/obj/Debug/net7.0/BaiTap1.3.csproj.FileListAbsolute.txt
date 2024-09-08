@@ -1,0 +1,15 @@
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\BaiTap1.3.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\BaiTap1.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\BaiTap1.3.AssemblyInfoInputs.cache
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\BaiTap1.3.AssemblyInfo.cs
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\BaiTap1.3.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\bin\Debug\net7.0\BaiTap1.3.exe
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\bin\Debug\net7.0\BaiTap1.3.deps.json
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\bin\Debug\net7.0\BaiTap1.3.runtimeconfig.json
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\bin\Debug\net7.0\BaiTap1.3.dll
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\bin\Debug\net7.0\BaiTap1.3.pdb
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\BaiTap1.3.dll
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\refint\BaiTap1.3.dll
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\BaiTap1.3.pdb
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\BaiTap1.3.genruntimeconfig.cache
+D:\UIT\Visual Programming\BTTH\BaiTap1.3\BaiTap1.3\obj\Debug\net7.0\ref\BaiTap1.3.dll

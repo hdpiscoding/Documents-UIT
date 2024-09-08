@@ -1,0 +1,12 @@
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\bin\Debug\RandBall_Game.exe.config
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\bin\Debug\RandBall_Game.exe
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\bin\Debug\RandBall_Game.pdb
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\obj\Debug\RandBall_Game.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\obj\Debug\RandBall_Game.csproj.SuggestedBindingRedirects.cache
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\obj\Debug\RandBall_Game.Form1.resources
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\obj\Debug\RandBall_Game.Level1.resources
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\obj\Debug\RandBall_Game.Properties.Resources.resources
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\obj\Debug\RandBall_Game.csproj.GenerateResource.cache
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\obj\Debug\RandBall_Game.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\obj\Debug\RandBall_Game.exe
+D:\UIT\Visual Programming\WinForm C#\RandBall_Game\RandBall_Game\obj\Debug\RandBall_Game.pdb

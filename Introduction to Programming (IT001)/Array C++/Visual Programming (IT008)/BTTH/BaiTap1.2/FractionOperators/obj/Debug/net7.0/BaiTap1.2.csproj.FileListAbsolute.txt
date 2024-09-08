@@ -1,0 +1,15 @@
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\bin\Debug\net7.0\BaiTap1.2.exe
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\bin\Debug\net7.0\BaiTap1.2.deps.json
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\bin\Debug\net7.0\BaiTap1.2.runtimeconfig.json
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\bin\Debug\net7.0\BaiTap1.2.dll
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\bin\Debug\net7.0\BaiTap1.2.pdb
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\BaiTap1.2.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\BaiTap1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\BaiTap1.2.AssemblyInfoInputs.cache
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\BaiTap1.2.AssemblyInfo.cs
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\BaiTap1.2.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\BaiTap1.2.dll
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\refint\BaiTap1.2.dll
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\BaiTap1.2.pdb
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\BaiTap1.2.genruntimeconfig.cache
+D:\UIT\Visual Programming\BTTH\BaiTap1.2\FractionOperators\obj\Debug\net7.0\ref\BaiTap1.2.dll

@@ -1,0 +1,10 @@
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\obj\Debug\Game.Form1.resources
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\obj\Debug\game2.Properties.Resources.resources
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\obj\Debug\game2.exe
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\obj\Debug\game2.pdb
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\bin\Debug\game2.exe.config
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\bin\Debug\game2.exe
+D:\UIT\Visual Programming\WinForm C#\PhamHoangDuy_22520339_Game\Game\bin\Debug\game2.pdb

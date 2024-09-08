@@ -1,0 +1,11 @@
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\bin\Debug\SetTimer.exe.config
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\bin\Debug\SetTimer.exe
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\bin\Debug\SetTimer.pdb
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\obj\Debug\SetTimer.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\obj\Debug\SetTimer.csproj.SuggestedBindingRedirects.cache
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\obj\Debug\SetTimer.Form1.resources
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\obj\Debug\SetTimer.Properties.Resources.resources
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\obj\Debug\SetTimer.csproj.GenerateResource.cache
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\obj\Debug\SetTimer.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\obj\Debug\SetTimer.exe
+D:\UIT\Visual Programming\WinForm C#\SetTimer\SetTimer\obj\Debug\SetTimer.pdb

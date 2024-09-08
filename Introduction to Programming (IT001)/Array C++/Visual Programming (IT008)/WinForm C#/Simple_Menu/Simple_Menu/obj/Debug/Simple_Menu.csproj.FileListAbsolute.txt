@@ -1,0 +1,11 @@
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\bin\Debug\Simple_Menu.exe.config
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\bin\Debug\Simple_Menu.exe
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\bin\Debug\Simple_Menu.pdb
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\obj\Debug\Simple_Menu.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\obj\Debug\Simple_Menu.csproj.SuggestedBindingRedirects.cache
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\obj\Debug\Simple_Menu.Form1.resources
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\obj\Debug\Simple_Menu.Properties.Resources.resources
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\obj\Debug\Simple_Menu.csproj.GenerateResource.cache
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\obj\Debug\Simple_Menu.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\obj\Debug\Simple_Menu.exe
+D:\UIT\Visual Programming\WinForm C#\Simple_Menu\Simple_Menu\obj\Debug\Simple_Menu.pdb

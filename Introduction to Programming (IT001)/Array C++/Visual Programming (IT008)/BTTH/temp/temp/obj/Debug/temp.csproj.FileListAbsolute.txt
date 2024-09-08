@@ -1,0 +1,11 @@
+D:\UIT\Visual Programming\BTTH\temp\temp\obj\Debug\temp.csproj.AssemblyReference.cache
+D:\UIT\Visual Programming\BTTH\temp\temp\obj\Debug\temp.csproj.SuggestedBindingRedirects.cache
+D:\UIT\Visual Programming\BTTH\temp\temp\obj\Debug\temp.Properties.Resources.resources
+D:\UIT\Visual Programming\BTTH\temp\temp\obj\Debug\temp.csproj.GenerateResource.cache
+D:\UIT\Visual Programming\BTTH\temp\temp\obj\Debug\temp.csproj.CoreCompileInputs.cache
+D:\UIT\Visual Programming\BTTH\temp\temp\obj\Debug\temp.Form1.resources
+D:\UIT\Visual Programming\BTTH\temp\temp\bin\Debug\temp.exe.config
+D:\UIT\Visual Programming\BTTH\temp\temp\bin\Debug\temp.exe
+D:\UIT\Visual Programming\BTTH\temp\temp\bin\Debug\temp.pdb
+D:\UIT\Visual Programming\BTTH\temp\temp\obj\Debug\temp.exe
+D:\UIT\Visual Programming\BTTH\temp\temp\obj\Debug\temp.pdb
